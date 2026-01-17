@@ -6,7 +6,7 @@ The software is a simple "Hello World" program written in JavaScript that output
 
 The purpose of this project is to confirm that my programming environment, version control setup, and documentation process are working correctly before progressing to more advanced software development tasks.
 
-[Software Demo Video](PUT_YOUR_YOUTUBE_LINK_HERE)
+[Software Demo Video](https://youtu.be/j9B9ZT04b40)
 
 # Development Environment
 
